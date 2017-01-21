@@ -1,0 +1,19 @@
+{
+  "name": "pisos",
+  "version": "0.0.0",
+  "description": "Pisos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbutsykin/pisos.git"
+  },
+  "author": "Maksym Butsykin <mbutsykin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbutsykin/pisos/issues"
+  },
+  "homepage": "https://github.com/mbutsykin/pisos#readme"
+}
